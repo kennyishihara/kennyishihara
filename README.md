@@ -6,12 +6,15 @@ Hey there, I'm Kenny! I'm an AI scientist passionate about building cutting-edge
 
 ## 🥞 Stack
 
-[![Tech](https://skillicons.dev/icons?i=scala,python,java,aws,azure,docker,fastapi,github)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=scala,python,java,aws,azure,docker,fastapi,github,neovim)](https://skillicons.dev)
 
 and other Big Data frameworks/services like Spark, Hadoop, and Databricks which the icons were not available for.
 
 ## 🧠 Currently Learning 
-[![Tech](https://skillicons.dev/icons?i=c,zig)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+
+## 🔮 Want to Learn
+[![Tech](https://skillicons.dev/icons?i=ocaml,zig,rust)](https://skillicons.dev)
 
 ## 🤔 Interests
 - Building fast and scalable AI applications.
