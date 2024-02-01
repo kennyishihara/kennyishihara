@@ -2,7 +2,7 @@
 
 
 ## 💻 About Me
-Hey there, I'm Kenny! I'm an AI scientist passionate about building cutting-edge AI products. Feel free to explore my repositories and reach out to me with any questions or collaboration opportunities! Let's build something amazing together 🚀
+Hey there, I'm Kenny! I'm an AI scientist passionate about building cutting-edge AI products. Feel free to reach out to me with any questions or collaboration opportunities! Let's build something amazing together 🚀
 
 ## 🥞 Stack
 
